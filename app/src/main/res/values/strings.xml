@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InstagramTest</string>
+    <string name="ask_to_join">Ask developers to send you a tester invite</string>
+    <string name="authentication_warning">Sorry, You are not authorized to proceed</string>
+    <string name="getting_user_token">"Exchanging user token \n"</string>
+    <string name="getting_user_info">"Getting user info \n"</string>
+    <string name="username_info">"Your username is: "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">save</string>
+    <string name="downloading">Downloading</string>
+    <string name="donwload_finished">Download Completed</string>
+</resources>
